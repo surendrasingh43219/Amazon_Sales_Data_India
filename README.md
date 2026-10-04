@@ -23,9 +23,7 @@ This business analytics project delivers a complete management reporting solutio
 
 ## 🖥️ Executive Dashboard Overview
 
-(assets/01_executive_dashboard_overview.png)
 
----
 
 ## 📈 Key Performance Indicators (At a Glance)
 
