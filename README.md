@@ -56,7 +56,7 @@ This business analytics project delivers a complete management reporting solutio
 
 ### 2. Category & Hero Product Dynamics
 
-![Category & Product Performance](assets/03_category_product_performance.png)
+Category & Product Performance
 
 | Category | Total Sales (INR) | Sales Share (%) | Net Profit (INR) | Margin (%) | Units Sold | Orders |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -80,7 +80,7 @@ This business analytics project delivers a complete management reporting solutio
 
 ### 3. Customer Order Status & Revenue Loss Funnel
 
-![Order Status & Revenue Loss](assets/04_order_status_revenue_loss.png)
+Order Status & Revenue Loss
 
 #### Order Status Breakdown:
 * **Delivered:** 8,147 orders (**81.47%**) | ₹125,894,210 revenue | ₹29,697,473 profit
@@ -101,7 +101,7 @@ This business analytics project delivers a complete management reporting solutio
 
 ### 4. Channels, Logistics & Geographic Footprint
 
-![Payment, Fulfillment & Geography](assets/05_payment_fulfillment_geography.png)
+Payment, Fulfillment & Geography
 
 #### Payment Method Distribution:
 * **UPI (Digital India Dominance):** ₹78.52M Sales (**50.40%**) | 4,972 Orders | 21.2% Margin
