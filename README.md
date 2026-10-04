@@ -3,7 +3,7 @@
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
 [![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FFB900?style=for-the-badge&logo=powerbi&logoColor=black)](#)
 [![Data Analytics](https://img.shields.io/badge/Data_Analytics-0078D4?style=for-the-badge&logo=google-analytics&logoColor=white)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 > **Interactive Executive Management Dashboard** analyzing **10,000+ e-commerce orders** and **₹155.8M ($1.87M+) gross revenue** across India (Jan 2024 – Aug 2026). Engineered to provide senior executive leadership with strategic visibility into sales trends, net margins, category mix, order leakage funnels, fulfillment channels, and regional geographic penetration.
 
@@ -222,6 +222,4 @@ The underlying dataset (`Amazon Sales Data India.xlsx`) contains 10,000 transact
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) — feel free to use this as a reference or portfolio template for business intelligence and data analytics projects.
