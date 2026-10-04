@@ -204,7 +204,7 @@ The underlying dataset (`Amazon Sales Data India.xlsx`) contains 10,000 transact
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/amazon-sales-executive-dashboard.git
+   git clone https://github.com/<surendra_singh>/amazon-sales-executive-dashboard.git
    cd amazon-sales-executive-dashboard
    ```
 2. **Open the Excel Dashboard:**
