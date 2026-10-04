@@ -44,7 +44,7 @@ This business analytics project delivers a complete management reporting solutio
 
 ### 1. Overall Sales & Profitability Trends (Jan 2024 – Aug 2026)
 
-![Sales & Profit Performance](assets/02_sales_profit_performance.png)
+Sales & Profit Performance
 
 * **Consistent Revenue Run-Rate:** Average monthly revenue consistently stabilizes between **₹4.5M and ₹5.5M**, demonstrating low baseline volatility.
 * **Seasonal Demand Surges:**
