@@ -58,7 +58,7 @@ Sales & Profit Performance
 
 Category & Product Performance
 
-| Category | Total Sales (INR) | Sales Share (%) | Net Profit (INR) | Margin (%) | Units Sold | Orders |
+| Category | Total Sales (INR) | Sales  (%) | Net Profit (INR) | Margin (%) | Units Sold | Orders |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Electronics & Mobiles** | ₹123,569,507 | **79.32%** | ₹26,310,257 | 21.29% | 7,579 | 3,045 |
 | **Home & Kitchen** | ₹17,973,219 | **11.54%** | ₹3,837,268 | 21.35% | 4,684 | 1,888 |
